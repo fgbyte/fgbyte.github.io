@@ -15,7 +15,7 @@ demoUrl: https://generai-web-staging.fgbyte.workers.dev
 
 # Generai: from full stack developer to Product Engineer — building with AI, live, at $0 cost
 
-I went from shipping features for other people to building my own product with AI agents. It's called **Generai**: you upload an image, and the AI generates captions and ready-to-publish content for Instagram, LinkedIn, X, TikTok, and more.
+I went from shipping features for other people to building my own product with AI agents. It's called **Generai**: you upload an image, and the AI generates captions and ready-to-publish content for Instagram, LinkedIn, X, and more.
 
 100% open source repo, MIT license: **github.com/fgbyte/generai**
 Live demo: **generai-web-staging.fgbyte.workers.dev/app**
